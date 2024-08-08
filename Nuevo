@@ -1,0 +1,61 @@
+{
+  "datosPrincipales": {
+    "codigo": "string",
+    "tipo": "string",
+    "nombre": "string",
+    "nombreCorto": "string",
+    "codigoMercadoPrincipal": "string",
+    "registroCNV": "string",
+    "depositanteCV": "string",
+    "codigoXMEV": "string",
+    "codigoXROX": "string",
+    "codigoROFX": "string",
+    "codigoXMAB": "string",
+    "codigoXMTB": "string",
+    "codigoACDI": "string",
+    "idCuenta": "string",
+    "activo": true,
+    "agenciaPropia": true,
+    "administrador": true,
+    "local": true,
+    "incluirEnSDIB": true,
+    "cuit": "string",
+    "domicilioAnteCNV": "string",
+    "telefonoAnteCNV": "string",
+    "email": "string",
+    "responsableAnteCNV": "string",
+    "sitioWeb": "string",
+    "descripcion": "string",
+    "usuarios": [
+      "string"
+    ],
+    "urlEnvioCuentas": "string",
+    "giin": "string"
+  },
+  "datosFiscales": {
+    "direccion": "string",
+    "localidad": "string",
+    "codigoPostal": "string",
+    "email": "string",
+    "web": "string",
+    "telefono": "string",
+    "ingresosBrutos": "string"
+  },
+  "datosOmsByma": {
+    "legalEntity": "string",
+    "operatorGroup": "string",
+    "defaultOperator": "string"
+  },
+  "datosMatbaRofex": {
+    "origenContraparteGiveup": "string"
+  },
+  "personasRelacionadas": {
+    "tipoDeRelacion": "string",
+    "tipoIdPersona": "string",
+    "idPersona": "string",
+    "tipoIdPersonaReferencia": "string",
+    "idPersonaReferencia": "string",
+    "desde": "string",
+    "hasta": "string"
+  }
+}
